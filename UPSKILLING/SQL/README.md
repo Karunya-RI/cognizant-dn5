@@ -3,7 +3,7 @@
 This project contains SQL statements for creating tables, inserting sample data, and answering common database queries.
 
 ## Files
-- sql.sql - Main SQL script with table definitions, sample data, and query answers
+- sqlprograms.sql - Main SQL script with table definitions, sample data, and query answers
 
 ## How to upload to GitHub
 1. Create a new repository on GitHub.
